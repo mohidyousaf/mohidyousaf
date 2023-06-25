@@ -16,6 +16,8 @@ Developed all in one platform for pet owners, veterinary doctors, pet shops, res
 https://github.com/mohidyousaf/Petswala 
 
 ## City Swap Web Application ( React, Firebase, Heroku, MongoDB )
+
+This platform allows you to swap homes with other travellers, so you can enjoy a new city without the cost of expensive accommodations. But even if you can’t find a home swap, CitySwapp makes it easy to find and sublease affordable properties in your destination city. And if you want to sublease your own home while you are away, CitySwapp can help you find trustworthy renters. 
 [Design](https://www.figma.com/file/9wc1RM9gIqIWrcoUSqDiJA/cityswap?type=design&node-id=172%3A84681&t=9c2snsFj4t2EKgXw-1)
 [repo](https://github.com/mohidyousaf/citySwap)
 [Api](https://github.com/mohidyousaf/Api.git)
