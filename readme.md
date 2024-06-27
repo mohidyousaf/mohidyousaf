@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohid Yousaf</h1>
-<h3 align="center">Developer, Teacher, and Gem Collector</h3>
+<h3 align="center">Developer</h3>
 
 <h2>Welcome</h2>
 <p>
