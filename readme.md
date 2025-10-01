@@ -47,5 +47,33 @@ Developed a sophisticated, multi-lingual AI Voice Agent capable of speaking 5 la
 </p>
 
 
+<h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
+
+  <picture>
+
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+
+    <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
+
+  </picture>
+
+</div>
+
+
+
+
+
+
+
+<h2 align="center">📈 Contribution Graph 📈</h2>
+
+<div align="center">
+
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohidyousaf&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+
+</div>
 
