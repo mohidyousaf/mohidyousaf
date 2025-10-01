@@ -47,21 +47,6 @@ Developed a sophisticated, multi-lingual AI Voice Agent capable of speaking 5 la
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="center">
-
-  <picture>
-
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-
-    <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
-
-  </picture>
-
-</div>
 
 
 
